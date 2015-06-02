@@ -1,0 +1,22 @@
+<graph edgedefault="directed" id="G">
+    <node x="2232" y="2599" id="0"/>
+    <node x="2349" y="2687" id="1"/>
+    <node x="2350" y="2506" id="2"/>
+    <node x="2526" y="2654" id="3"/>
+    <node x="2495" y="2365" id="4"/>
+    <node x="2504" y="2507" id="5"/>
+    <node x="2639" y="2519" id="6"/>
+    <node x="2693" y="2385" id="7"/>
+    <node x="2812" y="2517" id="8"/>
+    <edge end="1" weight="2" id="B" start="0"/>
+    <edge end="2" weight="4" id="A" start="0"/>
+    <edge end="3" weight="1" id="D" start="1"/>
+    <edge end="1" weight="0" id="" start="2"/>
+    <edge end="5" weight="1" id="C" start="2"/>
+    <edge end="4" weight="2" id="E" start="2"/>
+    <edge end="6" weight="2" id="G" start="3"/>
+    <edge end="7" weight="10" id="H" start="4"/>
+    <edge end="3" weight="2" id="F" start="5"/>
+    <edge end="7" weight="4" id="I" start="6"/>
+    <edge end="8" weight="1" id="J" start="7"/>
+</graph>

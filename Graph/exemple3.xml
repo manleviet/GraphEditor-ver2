@@ -1,0 +1,27 @@
+<graph edgedefault="directed" id="G">
+    <node x="2247" y="2541" id="0"/>
+    <node x="2367" y="2707" id="1"/>
+    <node x="2399" y="2565" id="2"/>
+    <node x="2403" y="2404" id="3"/>
+    <node x="2525" y="2650" id="4"/>
+    <node x="2573" y="2406" id="5"/>
+    <node x="2665" y="2657" id="6"/>
+    <node x="2757" y="2359" id="7"/>
+    <node x="2806" y="2614" id="8"/>
+    <node x="2914" y="2487" id="9"/>
+    <node x="3008" y="2577" id="10"/>
+    <node x="3075" y="2680" id="11"/>
+    <edge end="3" weight="3" id="A" start="0"/>
+    <edge end="2" weight="3" id="D" start="0"/>
+    <edge end="1" weight="300" id="E" start="0"/>
+    <edge end="4" weight="0" id="" start="1"/>
+    <edge end="4" weight="0" id="" start="2"/>
+    <edge end="5" weight="30" id="B" start="3"/>
+    <edge end="6" weight="30" id="F" start="4"/>
+    <edge end="7" weight="600" id="C" start="5"/>
+    <edge end="8" weight="120" id="G" start="6"/>
+    <edge end="9" weight="10" id="I" start="7"/>
+    <edge end="9" weight="10" id="H" start="8"/>
+    <edge end="10" weight="10" id="J" start="9"/>
+    <edge end="11" weight="0" id="K" start="10"/>
+</graph>

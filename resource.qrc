@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/cycle.ico</file>
+        <file>icon/fictivetask.ico</file>
+        <file>icon/new.ico</file>
+        <file>icon/open.ico</file>
+        <file>icon/pointer.ico</file>
+        <file>icon/save.ico</file>
+        <file>icon/task.ico</file>
+        <file>icon/creator.ico</file>
+        <file>icon/creator16.ico</file>
+    </qresource>
+</RCC>

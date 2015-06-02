@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<graph edgedefault="directed" id="G">
+    <node x="2323" y="2445" id="0"/>
+    <node x="2545" y="2542" id="1"/>
+    <node x="2532" y="2352" id="2"/>
+    <edge end="1" weight="23" id="B" start="0"/>
+    <edge end="2" weight="12" id="A" start="0"/>
+</graph>
